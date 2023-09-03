@@ -1,3 +1,3 @@
 # vanishing-light
 
-<h1 align="center">Hi 👋, I'm Lightre</h1>
+<h1 align="center">Hi👋, I'm Lightre</h1>
