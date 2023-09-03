@@ -1,4 +1,4 @@
-# scaling-meme
+# vanishing-light
 
 <h1 align="center">Hi 👋, I'm Lightre</h1>
 <h3 align="center">A passionate frontend developer from Turkey</h3>
